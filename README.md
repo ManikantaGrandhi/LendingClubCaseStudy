@@ -76,4 +76,4 @@ Seaborn
 
 
 ## Contact
-Created by [@ManikantaGrandhi](https://github.com/ManikantaGrandhi) and [@VishalLoke](https://github.com/ManikantaGrandhi)
+Created by [@ManikantaGrandhi](https://github.com/ManikantaGrandhi) and [@VishalLoke](https://github.com/VishalLoke)
